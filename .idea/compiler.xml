@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ServerIO" />
+        <module name="ClientNIO" />
         <module name="ClientIO" />
+        <module name="ServerNIO" />
       </profile>
     </annotationProcessing>
   </component>

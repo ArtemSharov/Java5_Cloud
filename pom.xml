@@ -11,6 +11,8 @@
     <modules>
         <module>ServerIO</module>
         <module>ClientIO</module>
+        <module>ServerNIO</module>
+        <module>ClientNIO</module>
     </modules>
 
     <properties>

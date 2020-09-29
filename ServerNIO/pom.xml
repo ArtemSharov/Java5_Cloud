@@ -9,11 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>ServerIO</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>ServerNIO</module>
-    </modules>
+    <artifactId>ServerNIO</artifactId>
 
 
 </project>
